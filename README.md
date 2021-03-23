@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danilo Sales</h1>
 <h3 align="center">I'm Danilo Sales, and I'm a Software Engineer at Pixeon and I've been working in tech since 2009. I'm from Brazil, and I'm currently living in Florianópolis/SC - Brazil.</h3>
 
-<p align="left"> <a href="https://twitter.com/danilosalesinfo" target="blank"><img src="https://img.shields.io/twitter/follow/danilosalesinfo?logo=twitter&style=for-the-badge" alt="danilosalesinfo" /></a> </p>
-
 - 🌱 I’m currently learning **Quarkus framework**
 
 - 💬 Ask me about **java, javascript, node, react, go**
